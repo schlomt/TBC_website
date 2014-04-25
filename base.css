@@ -1,0 +1,33 @@
+nav{
+	width: 98%;
+	position:absolute; top: 280px; left: 12.5px; z-index: 1;
+}
+#nav_bar ul{
+	list-style: none;
+	padding: .5em 0;
+	background-color:  	#4380d3;
+	text-align: center;
+}
+#nav_bar li{
+	display: inline;
+}
+#nav_bar a{
+	padding: 1em 1em;
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	letter-spacing: 1px;
+}
+
+h1{
+	font-size: 80px;
+	font-family: ;
+	color: #807456;
+	margin: 5px;
+	padding: 5px;
+	text-align: center;	
+}
+
+html{
+	background-color: 
+}
