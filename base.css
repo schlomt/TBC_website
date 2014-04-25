@@ -36,3 +36,7 @@ html{
 -webkit-columns:100px 3;
 -moz-columns:100px 3; 
 }
+
+.info_pics{
+	text-align: center;
+}
