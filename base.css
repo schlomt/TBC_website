@@ -19,12 +19,15 @@ nav{
 	letter-spacing: 1px;
 }
 
-#name{
-	font-family: Arial, Helvetica, sans-serif;
-	color: #424242;
+h1{
+	font-size: 80px;
+	font-family: ;
+	color: #807456;
 	margin: 5px;
 	padding: 5px;
 	text-align: center;	
-	
-	
+}
+
+html{
+	background-color: 
 }
