@@ -1,6 +1,5 @@
 nav{
 	width: 98%;
-	position:absolute; top: 280px; left: 12.5px; z-index: 1;
 }
 #nav_bar ul{
 	list-style: none;
@@ -30,4 +29,10 @@ h1{
 
 html{
 	background-color: 
+}
+
+#HPinfo{
+	columns:100px 3;
+-webkit-columns:100px 3;
+-moz-columns:100px 3; 
 }
