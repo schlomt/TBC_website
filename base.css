@@ -1,10 +1,11 @@
 nav{
+	font-size: 20px;
 	width: 98%;
 }
 #nav_bar ul{
 	list-style: none;
 	padding: .5em 0;
-	background-color:  	#4380d3;
+	background-color:  	#3a71ce;
 	text-align: center;
 }
 #nav_bar li{
@@ -39,4 +40,8 @@ html{
 
 .info_pics{
 	text-align: center;
+}
+
+.pic_title{
+	font-size: 30px;
 }
