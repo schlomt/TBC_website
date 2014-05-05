@@ -22,15 +22,15 @@ nav{
 
 h1{
 	font-size: 80px;
-	font-family: ;
 	color: #807456;
 	margin: 5px;
 	padding: 5px;
 	text-align: center;	
+	font-family: times, serif; font-weight: 400; font-size: 88px;
 }
 
 html{
-	background-color: black;
+	background-color: #C68E17;
 }
 
 #HPinfo{
@@ -49,8 +49,8 @@ html{
 
 body{
 	background-color: #FFFFFF;
-	border-radius: 25px;
 	margin: 15px 5px 15px 5px;
+	border: solid;
 }
 
 footer{
@@ -61,6 +61,7 @@ footer{
 	border-radius: 75px 75px 75px 75px;
 	color:#FFFFFF;
 	background-color: #807456;
-	
+	border: solid;
+	border-color: #000000;
 	
 }
