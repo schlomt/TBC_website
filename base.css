@@ -1,12 +1,13 @@
 nav{
 	font-size: 20px;
-	width: 98%;
+	margin: 10px;
 }
 #nav_bar ul{
 	list-style: none;
 	padding: .5em 0;
 	background-color:  	#3a71ce;
 	text-align: center;
+	border: solid #000000
 }
 #nav_bar li{
 	display: inline;
@@ -21,15 +22,15 @@ nav{
 
 h1{
 	font-size: 80px;
-	font-family: ;
 	color: #807456;
 	margin: 5px;
 	padding: 5px;
 	text-align: center;	
+	font-family: times, serif; font-weight: 400; font-size: 88px;
 }
 
 html{
-	background-color: black;
+	background-color: #C68E17;
 }
 
 #HPinfo{
@@ -48,13 +49,22 @@ html{
 
 body{
 	background-color: #FFFFFF;
+	margin: 15px 5px 15px 5px;
+	border: solid;
 }
 
 footer{
+	margin: 5px;
+	padding: 3px;
 	text-align: center;
 	border: #807456;
-	border-radius: 75px 75px 75px 75px;
 	color:#FFFFFF;
 	background-color: #807456;
+	border: solid;
+	border-color: #000000;
 	
+}
+
+#about_us{
+	text-align: center;
 }
