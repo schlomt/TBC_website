@@ -1,12 +1,3 @@
-a{
-	padding: none;
-	
-}
-
-.hover:hover
-{
-background-color:yellow;
-} 
 nav{
 	font-size: 20px;
 	margin: 0px;
@@ -17,9 +8,10 @@ nav{
 	background-color:  	#3a71ce;
 	text-align: center;
 	border: solid #000000;
+	margin: 5px;
 }
 #nav_bar li{
-	display: inline;
+	display:inline;
 }
 #nav_bar a{
 	padding: 1em 1em;
@@ -44,8 +36,8 @@ html{
 
 #HPinfo{
 	columns:100px 3;
--webkit-columns:100px 3;
--moz-columns:100px 3; 
+	-webkit-columns:100px 3;
+	-moz-columns:100px 3; 
 }
 
 .info_pics{
@@ -82,11 +74,6 @@ footer{
 	text-align :center;
 } 
 .hover{
-	font-size: 18px;
-	background:#3A71CE;
+	background-color: 
 }
-
-.hover:active {
-	font-size: 18px;
-	background:yellow;
-}
+#header_img
