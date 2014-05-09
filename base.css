@@ -1,13 +1,22 @@
+a{
+	padding: none;
+	
+}
+
+.hover:hover
+{
+background-color:yellow;
+} 
 nav{
 	font-size: 20px;
-	margin: 10px;
+	margin: 0px;
 }
 #nav_bar ul{
 	list-style: none;
 	padding: .5em 0;
 	background-color:  	#3a71ce;
 	text-align: center;
-	border: solid #000000
+	border: solid #000000;
 }
 #nav_bar li{
 	display: inline;
@@ -71,5 +80,13 @@ footer{
 
 #contact{
 	text-align :center;
-	
 } 
+.hover{
+	font-size: 18px;
+	background:#3A71CE;
+}
+
+.hover:active {
+	font-size: 18px;
+	background:yellow;
+}
