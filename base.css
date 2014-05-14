@@ -1,16 +1,17 @@
 nav{
 	font-size: 20px;
-	margin: 10px;
+	margin: 0px;
 }
 #nav_bar ul{
 	list-style: none;
 	padding: .5em 0;
 	background-color:  	#3a71ce;
 	text-align: center;
-	border: solid #000000
+	border: solid #000000;
+	margin: 5px;
 }
 #nav_bar li{
-	display: inline;
+	display:inline;
 }
 #nav_bar a{
 	padding: 1em 1em;
@@ -35,8 +36,8 @@ html{
 
 #HPinfo{
 	columns:100px 3;
--webkit-columns:100px 3;
--moz-columns:100px 3; 
+	-webkit-columns:100px 3;
+	-moz-columns:100px 3; 
 }
 
 .info_pics{
@@ -68,3 +69,11 @@ footer{
 #about_us{
 	text-align: center;
 }
+
+#contact{
+	text-align :center;
+} 
+.hover{
+	background-color: 
+}
+#header_img
