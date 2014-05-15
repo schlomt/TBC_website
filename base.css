@@ -5,13 +5,15 @@ nav{
 #nav_bar ul{
 	list-style: none;
 	padding: .5em 0;
-	background-color:  	#3a71ce;
+	background-color: #3a71ce;
 	text-align: center;
 	border: solid #000000;
 	margin: 5px;
 }
 #nav_bar li{
+	text-align:center;
 	display:inline;
+	padding: 10.5px 5px 10.5px 5px;
 }
 #nav_bar a{
 	padding: 1em 1em;
@@ -27,7 +29,7 @@ h1{
 	margin: 5px;
 	padding: 5px;
 	text-align: center;	
-	font-family: times, serif; font-weight: 400; font-size: 88px;
+	font-family: times, serif; font-weight: 100; font-size: 88px;
 }
 
 html{
@@ -45,7 +47,11 @@ html{
 }
 
 .pic_title{
+	color: #947E50;
 	font-size: 30px;
+	font-family: times, serif; 
+	font-weight: 40; 
+	font-size: 40px;
 }
 
 body{
@@ -73,7 +79,12 @@ footer{
 #contact{
 	text-align :center;
 } 
-.hover{
-	background-color: 
+#nav_bar li:hover{
+	background-color: #FFFFFF;
+	padding: 10.5px 5px 10.5px 5px;
+	border-radius: 75px;
 }
-#header_img
+#header_img{
+	margin: 10px 10px 10px 10px;
+	width: 98%;
+}
