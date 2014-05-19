@@ -43,6 +43,7 @@ html{
 }
 
 .info_pics{
+	font-family: Arial, Helvetica, sans-serif;
 	text-align: center;
 }
 
@@ -61,6 +62,7 @@ body{
 }
 
 footer{
+	font-family: Arial, Helvetica, sans-serif;
 	margin: 5px;
 	padding: 3px;
 	text-align: center;
@@ -77,7 +79,11 @@ footer{
 }
 
 #contact{
+	columns:100px 3;
+	-webkit-columns:100px 3;
+	-moz-columns:100px 3; 
 	text-align :center;
+	font-family: Arial, Helvetica, sans-serif;
 } 
 #nav_bar li:hover{
 	background-color: #FFFFFF;
