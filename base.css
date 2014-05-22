@@ -25,12 +25,10 @@ nav{
 	text-decoration: none;
 	letter-spacing: 1px;
 }
-
-h1{
-	margin: 2.5px;
-	padding: 3px;
+#header_logo{
+	margin: 5px 12px 0px 5px;
+	padding: 0px;
 }
-
 html{
 	background-color: #C68E17;
 }
