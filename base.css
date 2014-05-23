@@ -89,3 +89,8 @@ footer{
 	margin: 10px 10px 10px 10px;
 	width: 98%;
 }
+#HPinfo{
+	columns:100px 3;
+	-webkit-columns:100px 3;
+	-moz-columns:100px 3; 
+}
