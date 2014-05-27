@@ -50,6 +50,7 @@ body{
 	background-color: #FFFFFF;
 	margin: 15px 5px 15px 5px;
 	border: solid;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 footer{
@@ -64,7 +65,6 @@ footer{
 	border-color: #000000;
 	
 }
-
 #about_us{
 	text-align: center;
 }
